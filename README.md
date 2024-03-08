@@ -1,12 +1,12 @@
 PRIVACY POLICY
 
-Last updated February 18, 2024
+Last updated March 8th, 2024
 
 
 
 This privacy notice for Larsonsoft, LLC ( "we," "us," or "our" ), describes how and why we might collect, store, use, and/or share ( "process" ) your information when you use our services ( "Services" ), such as when you:
 
-	▪	Download and use our M application ( Target Blitz VR) , or any other application of ours that links to this privacy notice
+	▪	Download and use our Meta application ( Target Blitz VR) , or any other application of ours that links to this privacy notice
 
 	▪	Engage with us in other related ways, including any sales, marketing, or events
 Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at dallen@dallenlarson.com .
@@ -140,5 +140,5 @@ United States
 
 11. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please fill out and submit a data subject access request .
+Should users be required to contact your organization for their data to be deleted, this request must be respected and actioned on, regardless of the circumstance, unless otherwise required by law. For more information: https://developer.oculus.com/policy/data-use/ & https://developer.oculus.com/blog/working-together-to-protect-peoples-privacy/.
 .
